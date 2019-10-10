@@ -10,6 +10,7 @@ A repository containing information about known Information Security Clubs and S
 | Latrobe University ISACA Student Group    | https://www.latrobesu.org.au/Clubs/Cybersecurity/Pages/ISG          | Bundoora, Melbourne              | ISACA Student Group since 2018 |
 | Monash University MonSec    | https://monsec.io          | Clayton, Melbourne              |  |
 | RMIT Information Security Club (RISC)    | https://www.rusu.rmit.edu.au/Clubs/RISC          | Melbourne              | ISACA Student Group since 2014, Some events open to public |
+| Swinburne Cyber Security Club (SCSC)    | http://scsc.wtf          |  Hawthorn, Melbourne              | |
 
 
 
