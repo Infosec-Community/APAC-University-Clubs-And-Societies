@@ -17,3 +17,10 @@ A repository containing information about known Information Security Clubs and S
 | The Sydney Computing Society (SYNCS) | https://syncs.org.au | University of Sydney | Weekly security workshops Mondays - 12:30–14:00 (TBC) |
 | UNSW Security Society (SecSoc)    | https://unswsecurity.com/          | University of New South Wales              |  |
 | UTS Cyber Security Society (CSEC)    | https://utscyber.org/          | University of Technology Sydney              | Events open to public through club registration |
+
+
+
+#### Western Australia
+| Name             | Website                            | Location                              | Notes                            |
+| -----------------|------------------------------------|---------------------------------------|----------------------------------|
+| Computing and Security Student Association (CASSA)    | https://cassa.org.au/          | Edith Cowan University (ECU)              |  |
