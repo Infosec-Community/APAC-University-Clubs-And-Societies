@@ -29,3 +29,10 @@ A repository containing information about known Information Security Clubs and S
 | Name             | Website                            | Location                              | Notes                            |
 | -----------------|------------------------------------|---------------------------------------|----------------------------------|
 | Computing and Security Student Association (CASSA)    | https://cassa.org.au/          | Edith Cowan University (ECU)              |  |
+
+#### Queensland
+| Name             | Website                            | Location                              | Notes                            |
+| -----------------|------------------------------------|---------------------------------------|----------------------------------|
+| Deadbeef Society | https://www.deadbeefsociety.com/ | University of Queensland, St Lucia | Weekly security workshops with challenges. Best method of contact is through UQCS Slack |
+| UQ Cyber Squad | https://www.facebook.com/groups/947788485573947/ | Univeristy of Queensland, St Lucia | Weekly security talks and workshops |
+| QUT Whitehats | https://qutwhitehats.club/ | QUT, Gardens Point | Weekly security talks and workshops |
