@@ -34,5 +34,5 @@ A repository containing information about known Information Security Clubs and S
 | Name             | Website                            | Location                              | Notes                            |
 | -----------------|------------------------------------|---------------------------------------|----------------------------------|
 | Deadbeef Society | https://www.deadbeefsociety.com/ | University of Queensland, St Lucia | Weekly security workshops with challenges. Best method of contact is through UQCS Slack |
-| UQ Cyber Squad | https://www.facebook.com/groups/947788485573947/ | Univeristy of Queensland, St Lucia | Weekly security talks and workshops |
+| UQ Cyber Squad | https://cybersquad.uqcloud.net/ | Univeristy of Queensland, St Lucia | Weekly security talks and workshops |
 | QUT Whitehats | https://qutwhitehats.club/ | QUT, Gardens Point | Weekly security talks and workshops |
